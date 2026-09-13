@@ -2,7 +2,7 @@
   "name": "MASHA ALLAH NANDINI MILK PARLOUR",
   "short_name": "Nandini Milk",
   "description": "Payment, customer, bill and reminder manager for Nandini Milk Parlour.",
-  "start_url": "./asdf_bill_custom_fixed.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
