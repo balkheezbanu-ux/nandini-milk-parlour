@@ -1,0 +1,15 @@
+{
+  "name": "MASHA ALLAH NANDINI MILK PARLOUR",
+  "short_name": "Nandini Milk",
+  "description": "Payment, customer, bill and reminder manager for Nandini Milk Parlour.",
+  "start_url": "./asdf_bill_custom_fixed.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#040a14",
+  "theme_color": "#040a14",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
